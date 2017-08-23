@@ -1,0 +1,36 @@
+th, td{
+	border: 0.5px solid #eeeeee;
+	height: 40px;
+	width: auto;
+	padding: 0;
+}
+.jumbotron{
+	width: 80%;
+	margin: 0 auto;
+}
+.container table{
+	margin: 40px auto;
+	padding: 0;
+	background: white;
+	width: 82.7%;
+}
+
+.top {
+	background-color: inherit;
+}
+
+#new{
+	background: #ccff99;
+}
+
+#index{
+	background: #eeeeee;
+}
+
+#edit{
+	background: #ffe6ff;
+}
+
+#delete {
+	background: #ecc6ec;
+}
